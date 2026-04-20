@@ -1,0 +1,16 @@
+# OS
+Thumbs.db
+Desktop.ini
+
+# Editor
+.vscode/
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+
+# Secrets
+.env
+.env.*
+secrets.*
